@@ -1,4 +1,4 @@
 # REPL
-Simon Game
+A REPL game based on the children's game Simon. It will flash the colors and then ask the user to repeat the back to the computer in the same order.
 
-Juan's game is an awesome simon game where you have to memorize the colors and then repeat them back. 
+Juan's game is an awesome. Juan is generally awesome! 
